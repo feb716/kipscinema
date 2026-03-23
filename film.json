@@ -1,1 +1,10 @@
-["https://www.w3schools.com/html/mov_bbb.mp4"]
+[
+  {
+    "judul": "1. Big Buck Bunny (Action)",
+    "link": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "judul": "2. Tes Video Film 2",
+    "link": "https://www.w3schools.com/html/movie.mp4"
+  }
+]
