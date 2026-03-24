@@ -1,14 +1,13 @@
 [
   {
-    "judul": "Big Buck Bunny Full Movie",
+    "judul": "Big Buck Bunny",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_Buck_Bunny_Poster_01.jpg",
     "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
-    "judul": "Elephants Dream Animation",
+    "judul": "Elephants Dream",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_poster.jpg",
     "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-  },
-  {
-    "judul": "Tears of Steel Sci-Fi",
-    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+    
   }
 ]
