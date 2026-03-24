@@ -1,10 +1,2 @@
-[
-  {
-    "judul": "Test Film 1",
-    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-  },
-  {
-    "judul": "Test Film 2",
-    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-  }
-]
+["judul": "Test Film 1",
+    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"]
