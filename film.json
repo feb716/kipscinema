@@ -1,10 +1,14 @@
 [
   {
-    "judul": "Film Test 1",
-    "link": "https://vjs.zencdn.net/v/oceans.mp4"
+    "judul": "Big Buck Bunny (Test Video 1)",
+    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
   },
   {
-    "judul": "Film Test 2",
-    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    "judul": "Elephants Dream (Test Video 2)",
+    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+  },
+  {
+    "judul": "For Bigger Blazes (Test Video 3)",
+    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
   }
 ]
