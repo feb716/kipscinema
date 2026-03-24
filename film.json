@@ -8,6 +8,10 @@
     "judul": "Elephants Dream",
     "poster": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_poster.jpg",
     "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
-    
+  },
+  {
+    "judul": "Sintel",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/9/93/Sintel_poster.jpg",
+    "link": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
   }
 ]
